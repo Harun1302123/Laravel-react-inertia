@@ -34,6 +34,7 @@ This project is licensed under the MIT License.
 ## Quick Start
 
 
+```bash
 # Install PHP dependencies
 composer install
 
