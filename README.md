@@ -33,12 +33,6 @@ This project is licensed under the MIT License.
 
 ## Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/Mayank-Javiya/inertia-react-admin-panel.git
-
-# Change into the project directory
-cd inertia-react-admin-panel
 
 # Install PHP dependencies
 composer install
@@ -64,9 +58,6 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
-##  Contact
-
-For any inquiries or issues, please contact Mayank at mynk3120@gmail.com.
 
 ##  Note:
 
